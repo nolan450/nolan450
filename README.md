@@ -37,8 +37,7 @@
    - **Backend**: PHP (Symfony, CodeIgniter), Python (Django), Node.js, NestJS, Java
    - **Databases**: PostgreSQL, MongoDB, MySQL
    - **Tools**: Git, Docker, NetBeans, Jenkins, Travis CI
-   - **Other**: Data Mining in R, Shell Scripting, CI/CD pipelines, WordPress
-📫 Reach me at nolan974pro@gmail.com
+   - **Other**: Data Mining in R, Shell Scripting, CI/CD pipelines, WordPress  📫 Reach me at nolan974pro@gmail.com
 
 <!---
 nolan450/nolan450 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
