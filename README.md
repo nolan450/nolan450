@@ -4,10 +4,10 @@
 💼 Looking to collaborate on freelance projects, open-source contributions, or innovative startups  
 💻 **Tech Stack**:
    - **Frontend**: HTML5, CSS3, JavaScript (React, Bootstrap), Flutter, React Native
-   - **Backend**: PHP (Symfony, CodeIgniter), Python (Django), Node.js
+   - **Backend**: PHP (Symfony, CodeIgniter), Python (Django), Node.js, NestJS, Java
    - **Databases**: PostgreSQL, MongoDB, MySQL
    - **Tools**: Git, Docker, NetBeans, Jenkins, Travis CI
-   - **Other**: Data Mining in R, Shell Scripting, CI/CD pipelines
+   - **Other**: Data Mining in R, Shell Scripting, CI/CD pipelines, WordPress
 📫 Reach me at nolan974pro@gmail.com
 
 <!---
